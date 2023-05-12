@@ -1,4 +1,4 @@
-### Installation
+### Personal Portfoliio Project
 
 _How to setup this project_
 
