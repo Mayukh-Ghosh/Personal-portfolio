@@ -1,6 +1,6 @@
 ### Personal Portfoliio Project
 This is my personal portfolio website.
-this is built using HTML, CSS and JavaScript. 
+This is built using HTML, CSS and JavaScript. 
 _How to setup this project_
 
 1. Clone the repo
